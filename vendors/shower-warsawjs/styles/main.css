@@ -5,6 +5,10 @@
 li {
     font-size: 32px;
 }
+.slide ul>li::before {
+    color: white;
+    opacity: 0;
+}
 
 .slide h3.font-big {
     color: #000;
